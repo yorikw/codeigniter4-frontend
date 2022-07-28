@@ -27,7 +27,7 @@
         "components/jquery": "^3.3",
         "league/commonmark": "^2.0",
         "mgatner/adminlte4": "dev-master",
-        "javve/list.js": "^2.3",
+        "list.js": "^2.3",
         "tatter/alerts": "^3.0",
         "tatter/assets": "^3.0",
         "tatter/layouts": "^1.0",
