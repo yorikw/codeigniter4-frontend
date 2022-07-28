@@ -1,5 +1,5 @@
 {
-    "name": "tatter/frontend",
+    "name": "yorikw/frontend",
     "description": "Opinionated suite of frontend tech for CodeIgniter 4",
     "license": "MIT",
     "type": "library",
@@ -24,9 +24,10 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "fortawesome/font-awesome": "^5.15 || ^6.0",
+        "components/jquery": "^3.3",
         "league/commonmark": "^2.0",
         "mgatner/adminlte4": "dev-master",
-        "npm-asset/list.js": "^2.3",
+        "javve/list.js": "^2.3",
         "tatter/alerts": "^3.0",
         "tatter/assets": "^3.0",
         "tatter/layouts": "^1.0",
